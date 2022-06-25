@@ -1,1 +1,2 @@
 
+The exercices of matplotlib and seaborn will be here!
