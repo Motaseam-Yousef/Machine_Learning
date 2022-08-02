@@ -1,3 +1,3 @@
-# Machine_Learning_Course_Jose_Portilla
+# Machine_Learning
 
 In this Repo, the solution for ML course challenges will be shared here 
