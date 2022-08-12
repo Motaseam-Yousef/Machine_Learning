@@ -1,1 +1,6 @@
 
+Problem statment:
+The user’s opinion of the service or product is one of the most important things that companies must study in order to develop the product in a way that suits users in order to sustain users and increase the user segment. Since we are in the age of data, an artificial intelligence model will be created using machine learning techniques to perform sentiment analysis towards movies.
+
+Objective
+Make a ML model to predict the sentiment (positive or negative) for any movie feedback/review.
